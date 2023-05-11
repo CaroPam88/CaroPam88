@@ -1,7 +1,7 @@
 
 
 ¿Quién Soy?
-Hola! Soy Carolina, una Programadora Fullstack argentina viviendo en Brasil. 
+Hola! Soy Carolina, una Programadora Fullstack. 
 Desde que tengo uso de razón me gusta estar en movimiento. Siempre curiosa y con hambre de conocimiento, aprendí muchísimas cosas.
 
 ¿Qué hago?
